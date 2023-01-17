@@ -4,4 +4,6 @@ namespace CQRS.Core.Consumers
     {
         void Consume(string topic);
     }
+    
+    
 }
